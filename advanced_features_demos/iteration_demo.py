@@ -19,7 +19,6 @@ if __name__ == '__main__':
     # 如果循环的时候想知道下标，
     # Python内置的enumerate函数可以把一个list变成索引-元素对，这样就可以在for循环中同时迭代索引和元素本身、
     for i, value in enumerate(['A', 'B', 'C']):
-
         print(i, value)
 
     # for循环里，同时引用了两个变量，在Python里是很常见的
