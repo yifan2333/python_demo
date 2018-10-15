@@ -1,0 +1,13 @@
+/bin/
+.project
+.classpath
+*.settings/
+target
+.idea
+/.springBeans
+*.iws
+*.iml
+*.ipr
+*reports
+*.pmd
+venv
